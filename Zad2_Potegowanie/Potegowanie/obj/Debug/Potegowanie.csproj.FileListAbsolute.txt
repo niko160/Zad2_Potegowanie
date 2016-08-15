@@ -1,0 +1,12 @@
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\Potegowanie\bin\Debug\Potegowanie.exe.config
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\Potegowanie\bin\Debug\Potegowanie.exe
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\Potegowanie\bin\Debug\Potegowanie.pdb
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\Potegowanie\obj\Debug\Potegowanie.csprojResolveAssemblyReference.cache
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\Potegowanie\obj\Debug\Potegowanie.Form1.resources
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\Potegowanie\obj\Debug\Potegowanie.Properties.Resources.resources
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\Potegowanie\obj\Debug\Potegowanie.csproj.GenerateResource.Cache
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\Potegowanie\obj\Debug\Potegowanie.exe
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\Potegowanie\obj\Debug\Potegowanie.pdb
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\bin\Debug\Potegowanie.exe.config
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\obj\Debug\Potegowanie.exe
+C:\Users\dnikodex\Desktop\Zadania\Zad2_Potegowanie\Potegowanie\obj\Debug\Potegowanie.pdb
